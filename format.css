@@ -1,0 +1,555 @@
+
+*{
+padding:auto;
+margin:auto;
+text-align:centre;
+}
+
+.small{
+    line-height: 0.2;
+}
+body{
+    background-color: #f7f7f7;
+}
+.welcome{
+    text-align: center;
+    
+}
+.name{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+.container1{
+    align-self: center;
+    position: relative;
+    width: 90%;
+    height: 100px;
+    padding: 30px;
+    background: #fff;
+    box-sizing: border-box;
+    box-decoration-break: slice;
+    border-radius: 3px;
+    box-shadow: 2px 2px 5px 3px rgba(0,0,0,0.2);
+}
+.container{position: static;
+    
+   
+    width: 90%;
+    height: 400px;
+    padding: 30px;
+    background: #fff;
+    box-sizing: border-box;
+    border-radius: 3px;
+box-shadow: 2px 2px 5px 3px rgba(0,0,0,0.2);    
+}
+.container2{position:static;
+    align-content: center;
+    
+    width: 90%;
+    height: 370px;
+    padding: 30px;
+    background: #fff;
+    box-sizing: border-box;
+    border-radius: 3px;
+box-shadow: 2px 2px 5px 3px rgba(0,0,0,0.2);    
+}
+       
+.circle1{
+    margin: 0;
+    padding:0 ;
+    width: 300px;
+    height:300px;
+    background: url(dp/gourav.jpg);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 40px 40px 40px 20px;
+        
+}.circle2{
+    margin: 0;
+    padding:0 ;
+    width: 300px;
+    height:300px;
+    background: url(dp/sourav.jpg);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 40px 40px 40px 20px;
+        
+}.circle3{
+    margin: 0;
+    padding:0 ;
+    width: 300px;
+    height:300px;
+    background: url(dp/ankit.jpg);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 40px 40px 40px 20px;
+        
+}.circle4{
+    margin: 0;
+    padding:0 ;
+    width: 300px;
+    height:300px;
+    background: url(dp/anshu.jpg);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 40px 40px 40px 20px;
+        
+}.circle5{
+    margin: 0;
+    padding:0 ;
+    width: 300px;
+    height:300px;
+    background: url(dp/aditya.jpg);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 40px 40px 40px 20px;
+        
+}.circle6{
+    margin: 0;
+    padding:0 ;
+    width: 300px;
+    height:300px;
+    background: url(dp/rakesh.jpg);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 40px 40px 40px 20px;
+        
+}.circle7{
+    margin: 0;
+    padding:0 ;
+    width: 300px;
+    height:300px;
+    background: url(dp/ankit2.jpg);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 40px 40px 40px 20px;
+        
+}.circle8{
+    margin: 0;
+    padding:0 ;
+    width: 300px;
+    height:300px;
+    background: url(dp/kajal.jpg);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 40px 40px 40px 20px;
+        
+}
+.circle9{
+    margin: 0;
+    padding:0 ;
+    width: 300px;
+    height:300px;
+    background: url(dp/priti.jpg);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 40px 40px 40px 20px;
+        
+}
+.circle10{
+    margin: 0;
+    padding:0 ;
+    width: 300px;
+    height:300px;
+    background: url(dp/neha.jpg);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 40px 40px 40px 20px;
+        
+}
+.circle11{
+    margin: 0;
+    padding:0 ;
+    width: 300px;
+    height:300px;
+    background: url(dp/saqlain.jpg);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 40px 40px 40px 20px;
+        
+}
+.circle12{
+    margin: 0;
+    padding:0 ;
+    width: 300px;
+    height:300px;
+    background: url(bunty.png);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 40px 40px 40px 20px;
+        
+}
+.circle13{
+    margin: 0;
+    padding:0 ;
+    width: 300px;
+    height:300px;
+    background: url(dp/paramita.jpg);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 40px 40px 40px 20px;
+        
+}
+.circle14{
+    margin: 0;
+    padding:0 ;
+    width: 300px;
+    height:300px;
+    background: url(dp/nitya.jpg);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 40px 40px 40px 20px;
+        
+}
+.circle15{
+    margin: 0;
+    padding:0 ;
+    width: 300px;
+    height:300px;
+    background: url(dp/aditya2.jpg);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 40px 40px 40px 20px;
+        
+}
+p{
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    height: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    
+}
+
+h2{
+    margin: 0 0 20px;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+h1{
+    margin: 0 0 20px;
+    font-size: 40px;
+    font-family: 'Ribeye', cursive;
+    font-weight: 700;
+}
+
+.col-4{
+    float: left;
+    margin: 5px;
+    padding: 20px;
+    width: 100%;
+    height: 300px;
+    position: static;
+    align-content:space-around;
+    background-color: chartreuse;
+    background: #fff;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px 3px rgba(0,0,0,0.2);    
+
+}
+
+li{
+    font-size: 18px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+}
+/*################################--------------FOOTER-------------######################################*/
+.container3{position:static;
+    align-content: center;
+    
+    width: 90%;
+    height: 280px;
+    padding: 30px;
+    background: #fff;
+    box-sizing: border-box;
+    border-radius: 5px;
+box-shadow: 2px 2px 5px 3px rgba(0,0,0,0.2);    
+}
+   
+.left2{
+    float: left;
+    margin: 5px;
+    padding: 20px;
+    width: 35%;
+    height: 100px;
+    position: static;
+    align-content:space-around;
+    background-color: chartreuse;
+    background: #fff;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px 3px rgba(0,0,0,0.2);  
+
+}
+.last1{
+    position:static;
+    margin: 0px;
+    padding:0px ;
+ 
+}
+
+.last2{
+    position:static;
+    margin: 0px;
+    padding:0px ;
+    text-align: center;
+}
+.p1{
+    text-align: center;
+    font-size: 22px;
+}
+.lasth2{
+    text-align: center;
+}
+/*################################################MEDIA##################################################*/
+@media(max-width:599px){
+    p{
+        font-size: 22px;
+        line-height: 22px;
+    }
+    .name{
+        font-size: 20px;
+    }
+    
+    .container1{
+        height: 80px;}
+    .container{
+        height: 380px;
+    }
+    .container2{
+        height: 450px;
+    }
+.container3{position:static;
+    align-content: center;
+    width: 90%;
+    height: 320px;
+    padding: 30px;
+    background: #fff;
+    box-sizing: border-box;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px 3px rgba(0,0,0,0.2);    
+    }
+
+.col-61{
+    align-content: center;
+    margin: 5px;
+    padding: 20px;
+    width: 100%;
+    height: 200px;
+    position: static;
+    align-content:space-around;
+    background-color: chartreuse;
+    background: #fff;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px 3px rgba(0,0,0,0.2);  
+
+}  
+/*-----------------------------------------------SMALL DP---------------------------------------------*/
+    .circle1{
+    margin: 0;
+    padding:0 ;
+    width: 120px;
+    height:120px;
+    background: url(dp/gourav.png);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 10px 10px 10px 1px;
+        
+}
+    .circle2{
+    margin: 0;
+    padding:0 ;
+    width: 120px;
+    height:120px;
+    background: url(dp/sourav.png);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+margin: 10px 10px 10px 1px;        
+}
+    .circle3{
+    margin: 0;
+    padding:0 ;
+    width: 120px;
+    height:120px;
+    background: url(dp/ankit.png);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 10px 10px 10px 1px;
+        
+}
+    .circle4{
+    margin: 0;
+    padding:0 ;
+    width: 120px;
+    height:120px;
+    background: url(dp/anshu.png);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 10px 10px 10px 1px;
+        
+}
+    .circle5{
+    margin: 0;
+    padding:0 ;
+    width: 120px;
+    height:120px;
+    background: url(dp/aditya.png);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 10px 10px 10px 1px;
+        
+}
+    .circle6{
+    margin: 0;
+    padding:0 ;
+    width: 120px;
+    height:120px;
+    background: url(dp/rakesh.png);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 10px 10px 10px 1px;
+        
+}
+    .circle7{
+    margin: 0;
+    padding:0 ;
+    width: 120px;
+    height:120px;
+    background: url(dp/ankit2.png);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 10px 10px 10px 1px;
+        
+}
+    .circle8{
+    margin: 0;
+    padding:0 ;
+    width: 120px;
+    height:120px;
+    background: url(dp/kajal.png);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 10px 10px 10px 1px;
+}
+      .circle9{
+    margin: 0;
+    padding:0 ;
+    width: 120px;
+    height:120px;
+    background: url(dp/priti.png);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 10px 10px 10px 1px;
+}
+      .circle10{
+    margin: 0;
+    padding:0 ;
+    width: 120px;
+    height:120px;
+    background: url(dp/neha.png);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 10px 10px 10px 1px;
+}
+      .circle11{
+    margin: 0;
+    padding:0 ;
+    width: 120px;
+    height:120px;
+    background: url(dp/saqlain.png);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 10px 10px 10px 1px;
+}
+     .circle12{
+    margin: 0;
+    padding:0 ;
+    width: 120px;
+    height:120px;
+    background: url(dp/bunty.png);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 10px 10px 10px 1px;
+}
+    .circle13{
+    margin: 0;
+    padding:0 ;
+    width: 120px;
+    height:120px;
+    background: url(dp/paramita.png);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 10px 10px 10px 1px;
+}
+    .circle14{
+    margin: 0;
+    padding:0 ;
+    width: 120px;
+    height:120px;
+    background: url(dp/nitya1.jpg);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 10px 10px 10px 1px;
+}
+    .circle15{
+    margin: 0;
+    padding:0 ;
+    width: 120px;
+    height:120px;
+    background: url(dp/aditya2.1.jpg);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 10px 10px 10px 1px;
+}
+/*-----------------------------------------------SMALL DP---------------------------------------------*/
+    .p1{
+        font-size: 16px;
+        line-height: 20px;
+    }
+    
+    h1{
+        font-size: 24px;
+        font-weight: 800;
+    }
+    h2{
+        font-size: 20px;
+        line-height: 20px;
+        font-weight: 800;
+    }
+    
+    
+}
